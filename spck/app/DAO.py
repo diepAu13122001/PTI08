@@ -1,6 +1,5 @@
 import json
 
-
 class DAO:
     # khai bao bien url
     json_url = "spck/data/data.json"
@@ -21,6 +20,3 @@ class DAO:
         with open(cls.json_url, "w") as json_file:
             json.dump(data, json_file)
         print("successful writing!")
-
-
-data = DAO.write_json_data([{"name": "abc"}], "users")

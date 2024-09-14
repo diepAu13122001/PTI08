@@ -1,1 +1,40 @@
-{"users": [{"name": "abc"}]}
+{
+    "users": [
+      {
+        "username": "user1",
+        "password": "password123",
+        "email": "user1@example.com",
+        "avatar": "https://i.pinimg.com/736x/a2/fb/14/a2fb144a84ced0961056eab049e5e1a2.jpg",
+        "rated_list": []
+      },
+      {
+        "username": "user2",
+        "password": "password456",
+        "email": "user2@example.com",
+        "avatar": "https://i.pinimg.com/736x/a2/fb/14/a2fb144a84ced0961056eab049e5e1a2.jpg",
+        "rated_list": []
+      },
+      {
+        "username": "user3",
+        "password": "password789",
+        "email": "user3@example.com",
+        "avatar": "https://i.pinimg.com/736x/a2/fb/14/a2fb144a84ced0961056eab049e5e1a2.jpg",
+        "rated_list": []
+      },
+      {
+        "username": "user4",
+        "password": "passwordABC",
+        "email": "user4@example.com",
+        "avatar": "https://i.pinimg.com/736x/a2/fb/14/a2fb144a84ced0961056eab049e5e1a2.jpg",
+        "rated_list": []
+      },
+      {
+        "username": "user5",
+        "password": "passwordXYZ",
+        "email": "user5@example.com",
+        "avatar": "https://i.pinimg.com/736x/a2/fb/14/a2fb144a84ced0961056eab049e5e1a2.jpg",
+        "rated_list": []
+      }
+    ]
+  }
+  
